@@ -13,7 +13,7 @@ export function Hero() {
         <div className="relative shrink-0 opacity-0 animate-fade-in-up">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-xl">
             <Image
-              src="/images/hero-portrait.jpg"
+              src="/images/hero-portrait.jpeg"
               alt="Maria Camila Fierro, Administradora de Empresas en Medellin"
               width={320}
               height={320}
